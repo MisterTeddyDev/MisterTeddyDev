@@ -1,6 +1,1 @@
-Segfaults are bad
-
-<!---
-MisterTeddyDev/MisterTeddyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a C developer living in Canada. I like making very small games and learning new things.
